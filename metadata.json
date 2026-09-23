@@ -1,0 +1,6 @@
+{
+  "name": "HotspotCraft - MikroTik Editor",
+  "description": "Editor captive portal MikroTik dengan upload template ZIP, live preview real-time penuh, pengeditan HTML/CSS/JS, visual customizer, dan ekspor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
