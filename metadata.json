@@ -1,0 +1,6 @@
+{
+  "name": "MikroTik Hotspot Studio",
+  "description": "Editor template captive portal MikroTik dengan preview responsif penuh, asset resolver, upload/download ZIP, dan simulator RouterOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
